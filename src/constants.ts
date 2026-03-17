@@ -3,38 +3,43 @@ import { Poem } from './types';
 export const POEMS: Poem[] = [
   {
     id: '1',
-    title: 'Identity',
-    description: 'How are you perceived?',
-    content: `How are you perceived?
-Is it fit for you from what you receive?
-Yes? Congratulations!You have acheived,
-No? Create, Shape, Maybe deceive.`,
-    imageUrl: '/images/identity.jfif',
-    date: 'March 8, 2026'
+    title: 'Tradition',
+    description: 'Girls, boys, have turned down',
+    content: `
+The way of life passed down,
+One generation to another,
+These days has scaled down,
+Girls, boys, have turned down,
+The ancestors teardown.`,
+    imageUrl: '/images/tradition.jfif',
+    date: 'March 17, 2026'
   },
   {
     id: '2',
-    title: 'Appearance',
-    description: 'What do you let them see?',
-    content: `What do you let them see?
-How do you dress, how do you speak?
-Does all this influence your identity?
-Where do you lie in the spectrum of this society?`,
-    imageUrl: '/images/appearance.jfif',
-    date: 'March 8, 2026'
+    title: 'Peer Influence',
+    description: 'Do you do what others do?',
+    content: `Do you do what others do?
+They follow, you follow.
+What the heck! I can't be old school.
+It doesn't look cool,
+These spread from friend to friend,
+And all that descends.`,
+    imageUrl: '/images/peer-influence.jfif',
+    date: 'March 17, 2026'
   },
   {
     id: '3',
-    title: 'Social Proof',
-    description: 'Do you do what others do?',
-    content: `Do you do what others do?
-Do you follow even if it is not true?
-What is this social proof?
-When people trust something because others already do,
-Is that not a form of madness?
-Let me use it to my advantage though.
-If you can’t tell fake from real, is it really fake?`,
-    imageUrl: '/images/social proof.jfif',
-    date: 'March 8, 2026'
+    title: 'Social Validation',
+    description: 'Comments, likes, shares',
+    content: `
+Do you approve?
+More modern, more praise,
+More traditional, more shame,
+More comments, likes and shares,
+More approval,
+The more they repeat,
+The more they believe.`,
+    imageUrl: '/images/social-validation.jfif',
+    date: 'March 17, 2026'
   }
 ];
