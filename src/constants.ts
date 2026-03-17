@@ -23,7 +23,9 @@ They follow, you follow.
 What the heck! I can't be old school.
 It doesn't look cool,
 These spread from friend to friend,
-And all that descends.`,
+And all that descends.
+Is this how it ends?
+In perfect sameness?`,
     imageUrl: '/images/peer-influence.jfif',
     date: 'March 17, 2026'
   },
