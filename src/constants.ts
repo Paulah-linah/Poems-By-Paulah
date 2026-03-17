@@ -38,7 +38,9 @@ More traditional, more shame,
 More comments, likes and shares,
 More approval,
 The more they repeat,
-The more they believe.`,
+The more they believe.
+Trends grow louder, 
+Originality fades away.`,
     imageUrl: '/images/social-validation.jfif',
     date: 'March 17, 2026'
   }
